@@ -1,0 +1,14 @@
+.foo,
+.bar {
+    font-size: 28px;
+    font-family: Helvetica;
+}
+
+.foo {
+    color: white;
+    background-color: black;
+}
+
+.bar {
+    background-color: yellow;
+}

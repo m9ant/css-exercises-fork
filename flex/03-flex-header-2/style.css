@@ -56,7 +56,6 @@ ul {
 
 .noti-profile {
   display: flex;
-  justify-content: space-evenly;
   align-items: center;
   gap: 16px;
 }
@@ -64,5 +63,4 @@ ul {
 .logo-links {
   display: flex;
   align-items: center;
-  justify-content:space-evenly;
 }
